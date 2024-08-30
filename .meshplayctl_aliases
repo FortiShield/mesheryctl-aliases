@@ -1,0 +1,3 @@
+alias m="meshplayctl"
+alias ms="meshplayctl system"
+alias msl="meshplayctl system logs"
